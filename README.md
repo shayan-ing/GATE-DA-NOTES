@@ -13,7 +13,7 @@ High-quality, exam-focused notes for **GATE Data Science and Artificial Intellig
 
 | Subject                              | Google Drive Link                                                                                 | Format                  |
 |--------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------|
-| 1. Machine Learning                  | [Download ML Notes]([https://drive.google.com/drive/folders/xxx?usp=sharing](https://drive.google.com/file/d/1KGkzi1zWVJ4sed-rW3e97oU8U3KSnrbW/view?usp=drivesdk))                      | PDF + Handwritten       |
+| 1. Machine Learning                  | [Download ML Notes](https://drive.google.com/file/d/1KGkzi1zWVJ4sed-rW3e97oU8U3KSnrbW/view?usp=drivesdk)                      | PDF + Handwritten       |
 | 2. Artificial Intelligence (AI)      | [Download AI Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                      | PDF + Solved PYQs       |
 | 3. Linear Algebra                    | [Download Linear Algebra Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)          | Typed + Short Tricks    |
 | 4. Probability and Statistics        | [Download Prob & Stats Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)            | Complete Theory + PYQs  |
