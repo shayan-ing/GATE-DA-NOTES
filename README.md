@@ -1,6 +1,6 @@
 # GATE DA Notes 2026-2027 | Complete GATE Data Science & AI (DA) Preparation Resource
 
-**Best GATE DA Notes 2025, 2026 & 2027 | Handwritten + Typed | Topic-wise | Previous Year Solutions | Google Drive Links**
+**Best GATE DA Notes 2026, 2027 & 2028 | Handwritten + Typed | Topic-wise | Previous Year Solutions | Google Drive Links**
 
 High-quality, exam-focused notes for **GATE Data Science and Artificial Intelligence (DA)** paper. Specially curated for GATE 2026 and GATE 2027 aspirants. All notes are organized topic-wise with previous year GATE questions solved.
 
@@ -21,7 +21,7 @@ High-quality, exam-focused notes for **GATE Data Science and Artificial Intellig
 | 6. Programming & Python              | [Download Python Notes](https://drive.google.com/file/d/16BXzcCCIKf89Xoj011B8ZgzaiVLa4JTQ/view?usp=drive_link)                  | Code + Theory           |
 | 7. Data Structures & Algorithms (DSA)| [Download DSA Notes](https://drive.google.com/file/d/1cARjKY4UKhhyNLOeWZpXDnK8Pk7kpDIr/view?usp=drive_link)                     | Complexity + PYQs       |
 | 8. Database Management Systems (DBMS)| [Download DBMS Notes](https://drive.google.com/file/d/1hp0htsCOORCL3MEQvmvdL4v0HzAw5Rnf/view?usp=drive_link)                    | SQL + Normalization     |
-| 9. Data Warehousing & Data Mining    | [Download DW & DM Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                 | Warehousing & Mining etc.|
+| 9. Data Warehousing & Data Mining    | [Download DW & DM Notes](https://drive.google.com/file/d/1ti6ETTTZIMzOdMuPEwGcwVD2mV6f-uLq/view?usp=drive_link)                 | Warehousing & Mining etc.|
 
 > All folders are **public**, no login required. Updated till **GATE 2025** questions.
 
@@ -54,7 +54,7 @@ Contributions are highly appreciated! ✨
 ⭐ **Star this repository** if it helped you – helps others discover it!
 
 **Made with ❤️ for GATE DA 2026 & 2027 aspirants**  
-Last Updated: 20 November 2025
+Last Updated: 02 February 2026
 
 ---
 **Tags:** GATE DA Notes, GATE Data Science Notes, GATE AI Notes, GATE 2026 DA Preparation, GATE 2027 Notes, Machine Learning GATE DA, Linear Algebra GATE, Probability Statistics GATE, Python for GATE DA, DSA for GATE, DBMS GATE Notes, Data Mining Notes
