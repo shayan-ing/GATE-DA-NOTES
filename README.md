@@ -19,9 +19,9 @@ High-quality, exam-focused notes for **GATE Data Science and Artificial Intellig
 | 4. Probability and Statistics        | [Download Prob & Stats Notes](https://drive.google.com/file/d/1ZCeLVrusrWLIe6BRselLpAc0qbpBgdHR/view?usp=drive_link)            | Complete Theory + PYQs  |
 | 5. Calculus & Optimization           | [Download Calculus Notes](https://drive.google.com/file/d/1h0PwIFhNXt9uhuMhMjBP-D2R0W_IfDAv/view?usp=drive_link)                | Step-by-Step Solutions  |
 | 6. Programming & Python              | [Download Python Notes](https://drive.google.com/file/d/16BXzcCCIKf89Xoj011B8ZgzaiVLa4JTQ/view?usp=drive_link)                  | Code + Theory           |
-| 7. Data Structures & Algorithms (DSA)| [Download DSA Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                     | Complexity + PYQs       |
+| 7. Data Structures & Algorithms (DSA)| [Download DSA Notes](https://drive.google.com/file/d/1cARjKY4UKhhyNLOeWZpXDnK8Pk7kpDIr/view?usp=drive_link)                     | Complexity + PYQs       |
 | 8. Database Management Systems (DBMS)| [Download DBMS Notes](https://drive.google.com/file/d/1hp0htsCOORCL3MEQvmvdL4v0HzAw5Rnf/view?usp=drive_link)                    | SQL + Normalization     |
-| 9. Data Warehousing & Data Mining    | [Download DW & DM Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                 | Apriori, Clustering etc.|
+| 9. Data Warehousing & Data Mining    | [Download DW & DM Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                 | Warehousing & Mining etc.|
 
 > All folders are **public**, no login required. Updated till **GATE 2025** questions.
 
