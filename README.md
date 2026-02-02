@@ -15,12 +15,12 @@ High-quality, exam-focused notes for **GATE Data Science and Artificial Intellig
 |--------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------|
 | 1. Machine Learning                  | [Download ML Notes](https://drive.google.com/file/d/1KGkzi1zWVJ4sed-rW3e97oU8U3KSnrbW/view?usp=drivesdk)                      | PDF + Handwritten       |
 | 2. Artificial Intelligence (AI)      | [Download AI Notes](https://drive.google.com/file/d/1Y60NpmE7LtQx4Wq0cDv4MiCUbxReKtKk/view?usp=sharing)                      | PDF + Solved PYQs       |
-| 3. Linear Algebra                    | [Download Linear Algebra Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)          | Typed + Short Tricks    |
+| 3. Linear Algebra                    | [Download Linear Algebra Notes](https://drive.google.com/file/d/1nT_sXzLrWMgFG3jiadG7PO62R7tn4zma/view?usp=sharing)          | Typed + Short Tricks    |
 | 4. Probability and Statistics        | [Download Prob & Stats Notes](https://drive.google.com/file/d/1ZCeLVrusrWLIe6BRselLpAc0qbpBgdHR/view?usp=drive_link)            | Complete Theory + PYQs  |
-| 5. Calculus & Optimization           | [Download Calculus Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                | Step-by-Step Solutions  |
-| 6. Programming & Python              | [Download Python Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                  | Code + Theory           |
+| 5. Calculus & Optimization           | [Download Calculus Notes](https://drive.google.com/file/d/1h0PwIFhNXt9uhuMhMjBP-D2R0W_IfDAv/view?usp=drive_link)                | Step-by-Step Solutions  |
+| 6. Programming & Python              | [Download Python Notes](https://drive.google.com/file/d/16BXzcCCIKf89Xoj011B8ZgzaiVLa4JTQ/view?usp=drive_link)                  | Code + Theory           |
 | 7. Data Structures & Algorithms (DSA)| [Download DSA Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                     | Complexity + PYQs       |
-| 8. Database Management Systems (DBMS)| [Download DBMS Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                    | SQL + Normalization     |
+| 8. Database Management Systems (DBMS)| [Download DBMS Notes](https://drive.google.com/file/d/1hp0htsCOORCL3MEQvmvdL4v0HzAw5Rnf/view?usp=drive_link)                    | SQL + Normalization     |
 | 9. Data Warehousing & Data Mining    | [Download DW & DM Notes](https://drive.google.com/drive/folders/xxx?usp=sharing)                 | Apriori, Clustering etc.|
 
 > All folders are **public**, no login required. Updated till **GATE 2025** questions.
